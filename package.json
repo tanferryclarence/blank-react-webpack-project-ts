@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "LightForge Technologies",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.2.0"
+  }
 }
